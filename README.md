@@ -16,8 +16,8 @@ The input contains only one string.
 S
 
 **Constraints :**
-1 <= |S| <= 100
-Time Limit: 2 sec
+1 <= |S| <= 100 ,
+Time Limit: 2 sec ,
 Memory Limit: 128000 kB
 
 **Output**
