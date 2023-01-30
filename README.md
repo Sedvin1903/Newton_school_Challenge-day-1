@@ -24,3 +24,31 @@ Memory Limit: 128000 kB
 Print the answer.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## DAY - 2
+
+### *Bob and Exams*
+
+**Problem Statement :**
+
+There was an exam consisting of three problems worth 1, 2, and 4 points.
+Alexa, Edward, and Bob took this exam. Alexa scored A points, and Edward scored B points.
+
+Bob solved all of the problems solved by at least one of Alexa and Edward and failed to solve any of the problems solved by, neither of them.
+
+Find Bob's score.
+It can be proved that Bob's score is uniquely determined under the Constraints of this problem.
+
+**Input :**
+The input contains two integers separated by a space
+A B
+
+**Constraints :**
+0≤A, B≤7 ,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output**
+Print Bob's score as an integer.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
