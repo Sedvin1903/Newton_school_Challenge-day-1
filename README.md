@@ -50,27 +50,50 @@ Print Bob's score as an integer.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## DAY - 3
+## DAY - 4
 
-### *Bob and Exams*
+### *Prefix Strings*
 
 **Problem Statement :**
 
-There was an exam consisting of three problems worth 1, 2, and 4 points.
-Alexa, Edward, and Bob took this exam. Alexa scored A points, and Edward scored B points.
-Bob solved all of the problems solved by at least one of Alexa and Edward and failed to solve any of the problems solved by, neither of them.
-Find Bob's score. It can be proved that Bob's score is uniquely determined under the Constraints of this problem.
+You are given two strings S and T consisting of lowercase English letters. Determine if S is a prefix of T.
 
 **Input :**
-The input contains two integers separated by a space
-A B
+The input contains two strings separated by a new line.
+S
+T
 
 **Constraints :**
-0≤A, B≤7 ,
+S and T are strings of lengths between 1 and 100 (inclusive) consisting of lowercase English letters ,
 Time Limit: 2 sec ,
 Memory Limit: 128000 kB
 
 **Output**
-Print Bob's score as an integer.
+Print "Yes" if S is a prefix of T, "No" otherwise.
+Note: that the judge is case-sensitive
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## DAY - 5
+
+### *Prefix Strings*
+
+**Problem Statement :**
+
+You are given two strings S and T consisting of lowercase English letters. Determine if S is a prefix of T.
+
+**Input :**
+The input contains two strings separated by a new line.
+S
+T
+
+**Constraints :**
+S and T are strings of lengths between 1 and 100 (inclusive) consisting of lowercase English letters ,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output**
+Print "Yes" if S is a prefix of T, "No" otherwise.
+Note: that the judge is case-sensitive
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
