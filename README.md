@@ -50,7 +50,7 @@ Print Bob's score as an integer.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## DAY - 4
+## DAY - 3
 
 ### *Prefix Strings*
 
@@ -74,26 +74,58 @@ Note: that the judge is case-sensitive
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## DAY - 5
+## DAY - 4
 
-### *Prefix Strings*
+### *Reverse Strings*
 
 **Problem Statement :**
 
-You are given two strings S and T consisting of lowercase English letters. Determine if S is a prefix of T.
+You are given integers L, R, and a string S consisting of lowercase English letters.
+Print this string after reversing (the order of) the L-th through R-th characters.
+
 
 **Input :**
-The input contains two strings separated by a new line.
+The input line contains L and R separated by space. The next line S
+L R
 S
-T
 
 **Constraints :**
-S and T are strings of lengths between 1 and 100 (inclusive) consisting of lowercase English letters ,
+S consists of lowercase English letters.
+1≤ |S| ≤ 10^5 (|S| is the length of S. )
+L and R are integers.
+1 ≤ L ≤ R ≤ |S| ,
 Time Limit: 2 sec ,
 Memory Limit: 128000 kB
 
 **Output**
-Print "Yes" if S is a prefix of T, "No" otherwise.
-Note: that the judge is case-sensitive
+Print the specified string.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## DAY - 5
+
+### *Reverse Strings*
+
+**Problem Statement :**
+
+You are given integers L, R, and a string S consisting of lowercase English letters.
+Print this string after reversing (the order of) the L-th through R-th characters.
+
+
+**Input :**
+The input line contains L and R separated by space. The next line S
+L R
+S
+
+**Constraints :**
+S consists of lowercase English letters.
+1≤ |S| ≤ 10^5 (|S| is the length of S. )
+L and R are integers.
+1 ≤ L ≤ R ≤ |S| ,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output**
+Print the specified string.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
