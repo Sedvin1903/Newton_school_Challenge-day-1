@@ -104,6 +104,29 @@ Print the specified string.
 
 ## DAY - 5
 
+### *Carry or Not?*
+
+**Problem Statement :**
+
+You are given positive integers A and B.
+Let us calculate A+B (in decimal). If it does not involve a carry, print Easy; if it does, print Hard.
+
+**Input :**
+The input contains two space separated numbers:
+A B
+
+**Constraints :**
+A and B are integers.
+1 ≤ A, B ≤ 10^18 ,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output**
+If the calculation does not involve a carry, print Easy; if it does, print Hard.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## DAY - 6
+
 ### *Reverse Strings*
 
 **Problem Statement :**
