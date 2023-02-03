@@ -127,7 +127,7 @@ If the calculation does not involve a carry, print Easy; if it does, print Hard.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DAY - 6
 
-### *RAlexa and Balls*
+### *Alexa and Balls*
 
 **Problem Statement :**
 
