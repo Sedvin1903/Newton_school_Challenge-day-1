@@ -155,6 +155,35 @@ If Alexa's objective is achievable, print the minimum number of operations neede
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DAY - 7
 
+### *Chipmunk and Nuts*
+
+**Problem Statement :**
+
+There are N trees. The ith tree bears Ai nuts. Chipmunk will harvest nuts from the trees in the following manner:
+From a tree with 10 or fewer nuts, she does not take nuts.
+From a tree with more than 10 nuts, she takes all but 10 nuts.
+Find the total number of nuts Chipmunk will take from the trees
+
+
+**Input :**
+Input is given from Standard Input in the following format:
+N
+A1… AN
+
+**Constraints :**
+S consists of lowercase English letters.
+1 ≤ N ≤ 1000
+0 ≤ Ai ≤ 1000
+All values in the input are integers. ,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output**
+Print the answer.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## DAY - 8
+
 ### *Reverse Strings*
 
 **Problem Statement :**
