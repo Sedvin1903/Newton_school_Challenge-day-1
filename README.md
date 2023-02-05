@@ -184,6 +184,29 @@ Print the answer.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DAY - 8
 
+### *Bob and Digits*
+
+**Problem Statement :**
+
+Bob loves to play with numbers. He has an integer N. Find the number of digits that N has in base K.
+
+**Input :**
+The input contains two space-separated integers in the following format:
+N K
+
+**Constraints :**
+All values in the input are integers.
+1 ≤ N ≤ 109
+2 ≤ K ≤ 10,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output**
+Print the number of digits that N has in base K.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## DAY - 9
+
 ### *Reverse Strings*
 
 **Problem Statement :**
