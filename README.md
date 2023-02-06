@@ -207,6 +207,29 @@ Print the number of digits that N has in base K.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DAY - 9
 
+### *Shifted String*
+
+**Problem Statement :**
+
+We have a string S consisting of uppercase English letters. Additionally, an integer N will be given.
+Shift each character of S by N in alphabetical order (see below), and print the resulting string.
+
+We assume that A follows Z. For example, shifting A by 2 results in C (A → B → C), and shifting Y by 3 results in B (Y → Z → A → B).
+
+**Input :**
+The input contains a number and a string separated by a new line.
+N
+S
+
+**Constraints :**
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output**
+Print the string resulting from shifting each character of S by N in alphabetical order
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## DAY - 10
+
 ### *Reverse Strings*
 
 **Problem Statement :**
