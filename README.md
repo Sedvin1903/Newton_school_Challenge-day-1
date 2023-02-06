@@ -225,7 +225,8 @@ S
 Time Limit: 2 sec ,
 Memory Limit: 128000 kB
 
-**Output**
+**Output: **
+
 Print the string resulting from shifting each character of S by N in alphabetical order
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DAY - 10
@@ -251,7 +252,7 @@ L and R are integers.
 Time Limit: 2 sec ,
 Memory Limit: 128000 kB
 
-**Output**
+**Output:**
 Print the specified string.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
