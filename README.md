@@ -228,6 +228,7 @@ Memory Limit: 128000 kB
 **Output: **
 
 Print the string resulting from shifting each character of S by N in alphabetical order
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DAY - 10
 
