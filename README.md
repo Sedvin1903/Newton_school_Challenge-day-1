@@ -259,6 +259,30 @@ Print the answer.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DAY - 11
 
+### *String Sequence*
+
+**Problem Statement :**
+
+You are given a sequence of 26 integers P=(P1, P2, …, P26 ) consisting of integers from 1 through 26. It is guaranteed that all elements in P are distinct.
+
+Print a string S of length 26 that satisfies the following condition. For every i (1≤i≤26), the i- th character of S is the lowercase English letter that comes Pi- th in alphabetical order.
+
+**Input :**
+The input contains 26 space separated integers as follows:
+P1 P2. . P26
+
+**Constraints :**
+1≤Pi≤26
+All values in input are integers ,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the string S
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## DAY - 12
+
 ### *Reverse Strings*
 
 **Problem Statement :**
