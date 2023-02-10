@@ -305,6 +305,30 @@ If it is impossible to make a multiple of 3, print -1; otherwise, print the mini
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DAY - 13
 
+### *Maximum Sum Cards*
+
+**Problem Statement :**
+
+We have A cards, each of which has an integer 1 written on it. Similarly, we also have B cards with 0s and C cards with −1s.
+We will pick up K among these cards. What is the maximum possible sum of the numbers written on the cards chosen?
+
+**Input :**
+The input consists of 4 space separated integers as follows :
+A B C K
+
+**Constraints :**
+All values in input are integers.
+0≤A, B, C
+1 ≤ K ≤ A+B+C ≤ 2×10^9 ,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the maximum possible sum of the numbers written on the cards chosen.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## DAY - 14
+
 ### *Reverse Strings*
 
 **Problem Statement :**
@@ -329,4 +353,4 @@ Memory Limit: 128000 kB
 **Output:**
 Print the specified string.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
