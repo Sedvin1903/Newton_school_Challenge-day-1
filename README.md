@@ -329,6 +329,31 @@ Print the maximum possible sum of the numbers written on the cards chosen.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DAY - 14
 
+### *Number Games*
+
+**Problem Statement :**
+
+You are given an integer N. Do the following operation K times on it and print the resulting integer.
+If N is a multiple of 200, divide it by 200. Otherwise, see N as a string and append 200 to the end of it.
+For example, 7 would become 7200, and 1234 would become 1234200.
+
+**Input :**
+The input consists of two space separated integers as follows:
+N K
+
+**Constraints :**
+All values in input are integers.
+1≤ N ≤10^5
+1≤ K ≤20,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the answer as an integer.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## DAY - 15
+
 ### *Reverse Strings*
 
 **Problem Statement :**
