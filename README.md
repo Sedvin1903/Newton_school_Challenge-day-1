@@ -354,6 +354,33 @@ Print the answer as an integer.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DAY - 15
 
+### *Minimum Replacements*
+
+**Problem Statement :**
+
+Given are two strings S and T.
+Let us change some of the characters in S so that T will be a substring of S.
+At least how many characters do we need to change?
+
+Here, a substring is a consecutive subsequence. For example, xxx is a substring of yxxxy, but not a substring of xx
+
+**Input :**
+The input consists of two strings separated by a line.
+S
+T
+
+**Constraints :**
+1 <= |S|, |T| <= 1000
+S and T consist of lowercase English letters.| ,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the minimum number of characters in S that need to be changed.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## DAY - 15
+
 ### *Reverse Strings*
 
 **Problem Statement :**
