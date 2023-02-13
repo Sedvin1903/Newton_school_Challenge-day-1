@@ -352,31 +352,54 @@ Memory Limit: 128000 kB
 Print the answer as an integer.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## DAY - 15
+## DAY - 16
 
-### *Minimum Replacements*
+### *Maximise Product*
 
 **Problem Statement :**
 
-Given are two strings S and T.
-Let us change some of the characters in S so that T will be a substring of S.
-At least how many characters do we need to change?
-
-Here, a substring is a consecutive subsequence. For example, xxx is a substring of yxxxy, but not a substring of xx
+Given are integers a, b, c, and d. If x and y are integers and a≤x≤b and c≤y≤d hold, what is the maximum possible value of x*y?
 
 **Input :**
-The input consists of two strings separated by a line.
-S
-T
+The input consists of four space-separated integers.
+a b c d
 
 **Constraints :**
-1 <= |S|, |T| <= 1000
-S and T consist of lowercase English letters.| ,
+−10^9≤a≤b≤10^9
+−10^9≤c≤d≤10^9
+All values in the input are integers.,
 Time Limit: 2 sec ,
 Memory Limit: 128000 kB
 
 **Output:**
-Print the minimum number of characters in S that need to be changed.
+Print the maximum product.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## DAY - 17
+
+### *Reverse Strings*
+
+**Problem Statement :**
+
+You are given integers L, R, and a string S consisting of lowercase English letters.
+Print this string after reversing (the order of) the L-th through R-th characters.
+
+
+**Input :**
+The input line contains L and R separated by space. The next line S
+L R
+S
+
+**Constraints :**
+S consists of lowercase English letters.
+1≤ |S| ≤ 10^5 (|S| is the length of S. )
+L and R are integers.
+1 ≤ L ≤ R ≤ |S| ,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the specified string.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DAY - 15
