@@ -377,29 +377,24 @@ Print the maximum product.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DAY - 17
 
-### *Reverse Strings*
+### *Alexa and Digits*
 
 **Problem Statement :**
 
-You are given integers L, R, and a string S consisting of lowercase English letters.
-Print this string after reversing (the order of) the L-th through R-th characters.
+Having learned the multiplication table, Alexa can multiply two integers between 1 and 9 (inclusive) together. Given an integer N, determine whether N can be represented as the product of two integers between 1 and 9. If it can, print Yes; if it cannot, print No.
 
 
 **Input :**
-The input line contains L and R separated by space. The next line S
-L R
-S
+The input consists of a single integer.
+N
 
 **Constraints :**
-S consists of lowercase English letters.
-1≤ |S| ≤ 10^5 (|S| is the length of S. )
-L and R are integers.
-1 ≤ L ≤ R ≤ |S| ,
+1≤N≤100 ,
 Time Limit: 2 sec ,
 Memory Limit: 128000 kB
 
 **Output:**
-Print the specified string.
+If N can be represented as the product of two integers between 1 and 9 (inclusive), print Yes; if it cannot, print No.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DAY - 15
