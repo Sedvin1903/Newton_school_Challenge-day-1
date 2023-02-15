@@ -397,30 +397,29 @@ Memory Limit: 128000 kB
 If N can be represented as the product of two integers between 1 and 9 (inclusive), print Yes; if it cannot, print No.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## DAY - 15
+## DAY - 18
 
-### *Reverse Strings*
+### *Alexa and Sockets*
 
 **Problem Statement :**
 
-You are given integers L, R, and a string S consisting of lowercase English letters.
-Print this string after reversing (the order of) the L-th through R-th characters.
-
+Alexa's house has only one socket.
+Alexa wants to extend it with some number of power strips, each with A sockets, into B or more empty sockets. One power strip with A sockets can extend one empty socket into A empty sockets.
+Find the minimum number of power strips required.
 
 **Input :**
-The input line contains L and R separated by space. The next line S
-L R
-S
+The input consists of two space separated integers.
+A B
+
 
 **Constraints :**
-S consists of lowercase English letters.
-1≤ |S| ≤ 10^5 (|S| is the length of S. )
-L and R are integers.
-1 ≤ L ≤ R ≤ |S| ,
+All values in input are integers.
+2≤A≤20
+1≤B≤20,
 Time Limit: 2 sec ,
 Memory Limit: 128000 kB
 
 **Output:**
-Print the specified string.
+Print the minimum number of power strips required.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
