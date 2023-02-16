@@ -423,3 +423,52 @@ Memory Limit: 128000 kB
 Print the minimum number of power strips required.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## DAY - 19
+
+### *Sum Modulo*
+
+**Problem Statement :**
+
+Let S(n) denote the sum of the digits in the decimal notation of n. For example, S(101)=1+0+1=2.
+Given an integer N, determine if S(N) divides N.
+
+**Input :**
+The input consists of a single integer.
+N
+
+**Constraints :**
+1 ≤ N ≤ 10^9,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+If S(N) divides N, print Yes; if it does not, print No.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## DAY - 18
+
+### *Alexa and Sockets*
+
+**Problem Statement :**
+
+Alexa's house has only one socket.
+Alexa wants to extend it with some number of power strips, each with A sockets, into B or more empty sockets. One power strip with A sockets can extend one empty socket into A empty sockets.
+Find the minimum number of power strips required.
+
+**Input :**
+The input consists of two space separated integers.
+A B
+
+
+**Constraints :**
+All values in input are integers.
+2≤A≤20
+1≤B≤20,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the minimum number of power strips required.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
