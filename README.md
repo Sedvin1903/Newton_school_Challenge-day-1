@@ -446,29 +446,55 @@ If S(N) divides N, print Yes; if it does not, print No.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## DAY - 18
+## DAY - 20
 
-### *Alexa and Sockets*
+### *Maximum operations*
 
 **Problem Statement :**
 
-Alexa's house has only one socket.
-Alexa wants to extend it with some number of power strips, each with A sockets, into B or more empty sockets. One power strip with A sockets can extend one empty socket into A empty sockets.
-Find the minimum number of power strips required.
+There are N positive integers written on a blackboard: A1,. , AN.
+Edward can perform the following operation when all integers on the blackboard are even:
+
+Replace each integer X on the blackboard by X divided by 2.
+Find the maximum possible number of operations that Edward can perform.
 
 **Input :**
-The input consists of two space separated integers.
-A B
-
+The input consists of an integer N and N space separated integers.
+N
+A1 A2. . AN
 
 **Constraints :**
-All values in input are integers.
-2≤A≤20
-1≤B≤20,
+1≤N≤200
+1≤Ai≤10^9,
 Time Limit: 2 sec ,
 Memory Limit: 128000 kB
 
 **Output:**
-Print the minimum number of power strips required.
+Print the maximum possible number of operations that Edward can perform.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## DAY - 21
+
+### *Minimise Time Travel*
+
+**Problem Statement :**
+
+There are three airports A, B, and C, and flights between each pair of airports in both directions.
+A one-way flight between airports A and B takes P hours, a one-way flight between airports B and C takes Q hours, and a one-way flight between airports C and A takes R hours. Consider a route where we start at one of the airports, fly to another, and then fly to the other.
+What is the minimum possible sum of the flight times?
+
+**Input :**
+The input consists of three space separated integers.
+P Q R
+
+**Constraints :**
+1≤P, Q, R≤100
+All values in input are integers,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the minimum possible sum of the flight times.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
