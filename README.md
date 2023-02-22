@@ -498,3 +498,103 @@ Memory Limit: 128000 kB
 Print the minimum possible sum of the flight times.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## DAY - 22
+
+### *Minimise Time Travel*
+
+**Problem Statement :**
+
+There are three airports A, B, and C, and flights between each pair of airports in both directions.
+A one-way flight between airports A and B takes P hours, a one-way flight between airports B and C takes Q hours, and a one-way flight between airports C and A takes R hours. Consider a route where we start at one of the airports, fly to another, and then fly to the other.
+What is the minimum possible sum of the flight times?
+
+**Input :**
+The input consists of three space separated integers.
+P Q R
+
+**Constraints :**
+1≤P, Q, R≤100
+All values in input are integers,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the minimum possible sum of the flight times.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## DAY - 23
+
+### *Minimise Time Travel*
+
+**Problem Statement :**
+
+There are three airports A, B, and C, and flights between each pair of airports in both directions.
+A one-way flight between airports A and B takes P hours, a one-way flight between airports B and C takes Q hours, and a one-way flight between airports C and A takes R hours. Consider a route where we start at one of the airports, fly to another, and then fly to the other.
+What is the minimum possible sum of the flight times?
+
+**Input :**
+The input consists of three space separated integers.
+P Q R
+
+**Constraints :**
+1≤P, Q, R≤100
+All values in input are integers,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the minimum possible sum of the flight times.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## DAY - 24
+
+### *Minimise Time Travel*
+
+**Problem Statement :**
+
+There are three airports A, B, and C, and flights between each pair of airports in both directions.
+A one-way flight between airports A and B takes P hours, a one-way flight between airports B and C takes Q hours, and a one-way flight between airports C and A takes R hours. Consider a route where we start at one of the airports, fly to another, and then fly to the other.
+What is the minimum possible sum of the flight times?
+
+**Input :**
+The input consists of three space separated integers.
+P Q R
+
+**Constraints :**
+1≤P, Q, R≤100
+All values in input are integers,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the minimum possible sum of the flight times.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## DAY - 25
+
+### *Play With Zeros*
+
+**Problem Statement :**
+
+You are given an integer N between 0 and 9999 (inclusive).
+Print it as a four-digit string after appending the necessary number of leading zeros.
+
+**Input :**
+The input consists of a single integer.
+N
+
+**Constraints :**
+0≤N≤9999
+N is an integer,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the four digit string after appending to it the necessary number of leading zeros.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
