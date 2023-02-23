@@ -597,4 +597,28 @@ Memory Limit: 128000 kB
 Print the four digit string after appending to it the necessary number of leading zeros.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## DAY - 26
+
+### *Multiple Search*
+
+**Problem Statement :**
+
+Print a number between A and B (inclusive) that is a multiple of C. If such numbers exist, print the minimum among them. If there is no such number, print -1.the necessary number of leading zeros.
+
+**Input :**
+The input contains three space separated integers.
+A B C
+
+**Constraints :**
+0≤X≤1000
+All values in input are integers.,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the answer.
+If there is no number with the desired property, print -1.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
