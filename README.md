@@ -619,6 +619,52 @@ Memory Limit: 128000 kB
 Print the answer.
 If there is no number with the desired property, print -1.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------
+## DAY - 27
+
+### *Card Games*
+
+**Problem Statement :**
+
+Print a number between A and B (inclusive) that is a multiple of C. If such numbers exist, print the minimum among them. If there is no such number, print -1.the necessary number of leading zeros.
+
+**Input :**
+The input contains three space separated integers.
+A B C
+
+**Constraints :**
+0≤X≤1000
+All values in input are integers.,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the answer.
+If there is no number with the desired property, print -1.
+
+------------------------------------------------------
+
+## DAY - 28
+
+### *Contest Time*
+
+**Problem Statement :**
+
+Newton School Coding Contest usually starts at 21:00 IST and lasts for 100 minutes.
+You are given an integer K between 0 and 100 (inclusive). Print the time K minutes after 21:00 in the HH:MM format, where HH denotes the hour on the 24- hour clock and MM denotes the minute. If the hour or the minute has just one digit, append a 0 to the beginning to represent it as a 2- digit integer.
+
+**Input :**
+The input consists of a single integer.
+K
+
+**Constraints :**
+K is an integer between 0 and 100 (inclusive),
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the time K minutes after 21:00 in the format specified in the 
+
+-------------------------------------------------------------------------------------------------------------
 
 
