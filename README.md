@@ -666,5 +666,24 @@ Memory Limit: 128000 kB
 Print the time K minutes after 21:00 in the format specified in the 
 
 -------------------------------------------------------------------------------------------------------------
+ ## DAY - 29
 
+### *Finding Character*
 
+**Problem Statement :**
+Find the X- th character from the beginning of the string that is obtained by concatenating these characters: N copies of A's, N copies of B's, …, and N copies of Z's, in this order
+
+**Input :**
+The input consists of two space separated integers.
+N X
+
+**Constraints :**
+1≤N≤100
+1≤X≤N≤26
+All values in input are integers,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the answer
+------------------------------------------------------
