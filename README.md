@@ -1,4 +1,6 @@
-# Newton_school_Challenge - Ouestion of the day - Solutions [ Jan 29 2023 - PRESENT ] 
+# Newton_school_Challenge - Ouestion of the day - Solutions [ Jan 29 2023 - Feb 27 2023 ] 
+
+Success is a journey , not a destination  !!!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
