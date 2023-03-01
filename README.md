@@ -501,76 +501,74 @@ Print the minimum possible sum of the flight times.
 
 ## DAY - 22
 
-### *Minimise Time Travel*
+### *Potential Stones*
 
 **Problem Statement :**
 
-There are three airports A, B, and C, and flights between each pair of airports in both directions.
-A one-way flight between airports A and B takes P hours, a one-way flight between airports B and C takes Q hours, and a one-way flight between airports C and A takes R hours. Consider a route where we start at one of the airports, fly to another, and then fly to the other.
-What is the minimum possible sum of the flight times?
+There are 2000001 stones placed on a number line. The coordinates of these stones are −1000000, −999999, −999998, …, 999999, 1000000. Among them, some K consecutive stones are painted black, and others are painted white. Additionally, we know that the stone at coordinate X is painted black.
+Print all coordinates that potentially contain a stone painted black, in ascending order.
 
 **Input :**
-The input consists of three space separated integers.
-P Q R
+The input consists of two space-separated integers.
+K X
 
 **Constraints :**
-1≤P, Q, R≤100
-All values in input are integers,
+1≤K≤100
+0≤X≤100
+All values in the input are integers,
 Time Limit: 2 sec ,
 Memory Limit: 128000 kB
 
 **Output:**
-Print the minimum possible sum of the flight times.
+Print all coordinates that potentially contain a stone painted black, in ascending order, with spaces in between.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## DAY - 23
 
-### *Minimise Time Travel*
+### *Digit games*
 
 **Problem Statement :**
 
-There are three airports A, B, and C, and flights between each pair of airports in both directions.
-A one-way flight between airports A and B takes P hours, a one-way flight between airports B and C takes Q hours, and a one-way flight between airports C and A takes R hours. Consider a route where we start at one of the airports, fly to another, and then fly to the other.
-What is the minimum possible sum of the flight times?
+Let xyz denote the 3- digit integer whose digits are x, y, and z from left to right.
+Given a 3-digit integer, abc none of whose digits is 0, find abc+bca+cab.
 
 **Input :**
-The input consists of three space separated integers.
-P Q R
+The input is given as follows.
+abc
 
 **Constraints :**
-1≤P, Q, R≤100
-All values in input are integers,
+abc is a 3- digit integer, none of whose digits is 0,
 Time Limit: 2 sec ,
 Memory Limit: 128000 kB
 
 **Output:**
-Print the minimum possible sum of the flight times.
+Print the answer.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## DAY - 24
 
-### *Minimise Time Travel*
+### *String Analysis*
 
 **Problem Statement :**
 
-There are three airports A, B, and C, and flights between each pair of airports in both directions.
-A one-way flight between airports A and B takes P hours, a one-way flight between airports B and C takes Q hours, and a one-way flight between airports C and A takes R hours. Consider a route where we start at one of the airports, fly to another, and then fly to the other.
-What is the minimum possible sum of the flight times?
+You are given a string S ending with er or ist.
+If S ends with er, print er; if it ends with ist, print ist.
 
 **Input :**
-The input consists of three space separated integers.
-P Q R
+The input consists of a string.
+S
 
 **Constraints :**
-1≤P, Q, R≤100
-All values in input are integers,
+2≤∣S∣≤20
+S consists of lowercase English letters.
+S ends with er or ist.,
 Time Limit: 2 sec ,
 Memory Limit: 128000 kB
 
 **Output:**
-Print the minimum possible sum of the flight times.
+Print the answer.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -619,7 +617,7 @@ Memory Limit: 128000 kB
 Print the answer.
 If there is no number with the desired property, print -1.
 
-------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DAY - 27
 
 ### *Card Games*
@@ -642,7 +640,7 @@ Memory Limit: 128000 kB
 Print the answer.
 If there is no number with the desired property, print -1.
 
-------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## DAY - 28
 
@@ -665,7 +663,7 @@ Memory Limit: 128000 kB
 **Output:**
 Print the time K minutes after 21:00 in the format specified in the 
 
--------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
  ## DAY - 29
 
 ### *Finding Character*
@@ -686,4 +684,61 @@ Memory Limit: 128000 kB
 
 **Output:**
 Print the answer
-------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## DAY - 30
+
+### *Digits Printing*
+
+**Problem Statement :**
+You are given an integer N of at least 100. Print the last two digits of N. Strictly speaking, print the tens and one's digits of N in this order.
+
+**Input :**
+The input consists of an integer.
+N
+**Constraints :**
+100≤N≤999
+N is an integer,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the answer
+
+
+
+### *Squares and Cubes*
+
+**Problem Statement :**
+Bob is given an integer a. He wants to find the value of a + a^2 + a^3.
+
+**Input :**
+The input consists of an integer a.
+
+**Constraints :**
+1≤a≤10
+a is an integer,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print the answer
+
+
+
+### *Alexa and Air Conditioner*
+
+**Problem Statement :**Alexa will turn on the air conditioner if, and only if, the temperature of the room is 30 degrees Celsius or above. The current temperature of the room is X degrees Celsius. Will she turn on the air conditioner?
+
+**Input :**
+The input consists of a single integer X.
+
+**Constraints :**
+−40≤X≤40
+X is an integer.,
+Time Limit: 2 sec ,
+Memory Limit: 128000 kB
+
+**Output:**
+Print Yes if you will turn on the air conditioner; print No otherwise.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
